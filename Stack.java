@@ -6,7 +6,7 @@ public class Main {
         
         // STACK SYNTAX
         // Stack<type> st = new Stack<type>() ;
-        // st.push() , st.peek() , st.pop() 
+        // st.push() , st.peek() , st.pop() , st.search(ele)
         
         Stack<Integer> st = new Stack<Integer>() ; 
 
